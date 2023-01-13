@@ -78,7 +78,10 @@ Paramaters are:
     
 ## *Directory Tree*
 
+![image](https://user-images.githubusercontent.com/112689649/212249231-d365b414-4df8-417e-b88d-6f2f5224df9a.png)
 
-That’s all. Hope you got idea on IPL Score Prediction using Python 3.
-You may be interested to use different Machine Learning Model for IPL dataset.
-Thanks for reading.
+![image](https://user-images.githubusercontent.com/112689649/212249174-7fee9e16-c72a-439b-b237-5fefbcf1e301.png)
+
+![image](https://user-images.githubusercontent.com/112689649/212249205-b4a33102-3e3e-4f12-9896-496ed0bf8a0e.png)
+
+
